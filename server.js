@@ -17,4 +17,4 @@ const init = async () => {
 
 init();
 
-//hapi web server - dicoding Sawaludding
+//hapi web server - dicoding Sawaluddin
